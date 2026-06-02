@@ -1,5 +1,7 @@
 # 📚 Hệ Thống Thư Viện Số
 
+🌐 **Xem thử:** [https://kienhoa-git.github.io/thuvien-so/](https://kienhoa-git.github.io/thuvien-so/)
+
 Ứng dụng web quản lý thư viện hiện đại với **2 vai trò: Độc giả & Thủ thư**, được xây dựng theo quy trình Công nghệ Phần mềm.
 
 ---
